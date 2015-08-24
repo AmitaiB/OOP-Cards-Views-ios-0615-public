@@ -15,7 +15,7 @@ OOP-Cards-Views
 
 ### Outlet Collections 
 
-Outlet collections allow a group of related outlets to be collected into an NSArray.  You can create an outlet collection by control dragging from an interface element in the storyboard and selecting Outlet collection (rather than outlet or action).  You then can drag addittional interface elements into the collection to add them to an NSArray.
+Outlet collections allow a group of related outlets to be collected into an NSArray.  You can create an outlet collection by control dragging from an interface element in the storyboard and selecting Outlet collection (rather than outlet or action).  You then can drag additional interface elements into the collection to add them to an NSArray.
 
 http://useyourloaf.com/blog/2011/03/28/interface-builder-outlet-collections.html  
 
